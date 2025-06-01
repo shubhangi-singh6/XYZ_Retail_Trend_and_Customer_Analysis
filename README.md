@@ -2,7 +2,6 @@
 
 # Project Title
 
-
 # 🛍️ Company XYZ Power BI Dashboard
 
 This repository contains an interactive Power BI dashboard built for **Company XYZ**, a multi-regional retail business. The dashboard empowers stakeholders to make informed decisions by analyzing sales, profit, customer behavior, and discount strategies across multiple dimensions.
@@ -65,7 +64,7 @@ The dashboard was created to fulfill the following business needs:
 
 You can download and explore the full Power BI `.pbix` file here:
 
-🔗 [Download XYZ_Retail_Trend_and_Customer_Analysis.pbix]
+🔗 [Download XYZ_Retail_Trend_and_Customer_Analysis.pbix](https://github.com/shubhangi-singh6/XYZ_Retail_Trend_and_Customer_Analysis/blob/main/XYZ%20Retail%20Analysis.pbix)
 ---
 
 ## 🔍 Key Insights
