@@ -12,7 +12,7 @@ This repository contains an interactive Power BI dashboard built for **Company X
 
 The dashboard was created to fulfill the following business needs:
 
-- **KPI Snapshot**:
+- **KPIs**:
   - Total Sales, Total Profit, Quantity Sold, Average Discount (with time-based trend analysis)
 
 - **Profitability Analysis**:
