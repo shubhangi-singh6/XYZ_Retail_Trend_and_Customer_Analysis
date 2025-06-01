@@ -1,8 +1,4 @@
-# XYZ_Retail_Trend_and_Customer_Analysis
-
-# Project Title
-
-# 🛍️ Company XYZ Power BI Dashboard
+# 🛍️ XYZ_Retail_Trend_and_Customer_Analysis Power BI Dashboard
 
 This repository contains an interactive Power BI dashboard built for **Company XYZ**, a multi-regional retail business. The dashboard empowers stakeholders to make informed decisions by analyzing sales, profit, customer behavior, and discount strategies across multiple dimensions.
 
